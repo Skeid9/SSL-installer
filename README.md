@@ -1,4 +1,4 @@
-# LAMP-installer
+# SSL-installer
 Quick SSL installer for Linux.
 
 # Supported OS
