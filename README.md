@@ -6,7 +6,7 @@ Quick SSL installer for Linux.
 - [x] Debian
 
 # Installation
-``` wget https://raw.githubusercontent.com/Skeid9/SSL-installer/master/ssl.sh && chmod 777 lamp.sh ```
+``` wget https://raw.githubusercontent.com/Skeid9/SSL-installer/master/ssl.sh && chmod 777 ssl.sh ```
 
 # Usage
 ```
