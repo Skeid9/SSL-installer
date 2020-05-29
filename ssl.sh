@@ -23,6 +23,7 @@ read www
 
 if [ $os -eq 1 ]; then
 	# ubuntu
+	sudo apt-get install -y software-properties-common
 	add-apt-repository ppa:certbot/certbot
 	sudo apt-get update -y
 	sudo apt-get install python-certbot-apache -y
